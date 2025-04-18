@@ -4,7 +4,7 @@ This project is a complete ETL (Extract, Transform, Load) pipeline that leverage
 
 
 ## Architecture
-<img src="https://github.com/Bhargav-data-driven/snowflake_data_pipeline/blob/main/snowpipe.jpg" alt="Data Architecture" width="750" height="500">
+<img src="https://github.com/Bhargav-data-driven/snowflake_data_pipeline/blob/main/snowflake.jpg" alt="Data Architecture" width="750" height="500">
 
 
 ## Key Features
